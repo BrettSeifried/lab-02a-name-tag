@@ -5,6 +5,12 @@
         padding: 8px;
     }
 
+    .inputs{
+        width: 300px;
+        margin: 20px auto;
+    }
+
+
     .hello{
         background: red;
         height: 300px;
@@ -13,7 +19,7 @@
         line-height: 82%;
     }
 
-    .name{
+    .nameline{
         text-align: center;  
         font-family: 'Cedarville Cursive', cursive;
         font-size: 40px;
